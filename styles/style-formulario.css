@@ -1,0 +1,43 @@
+.div-inputForm {
+    position: relative;
+    float: left;
+    width: 50px;
+}
+
+.custom-combobox {
+    position: relative;
+    display: inline-block;
+}
+.custom-combobox-toggle {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin-left: -1px;
+    padding: 0;
+}
+.custom-combobox-input {
+    margin: 0;
+    padding: 5px 10px;
+}
+
+.div-autocomplete{
+    float: left;
+    width: 30%;
+    height: 34px;
+}
+
+.selectForm{
+    position: relative;
+    float: left;
+    margin-left: 1px;
+    width: 120px;
+    height: 37px;
+}
+
+.form-button-concepto{
+    position: relative;
+    float: left;
+    width: 28%;
+    height: 30px;
+    margin-left: 36%;
+}

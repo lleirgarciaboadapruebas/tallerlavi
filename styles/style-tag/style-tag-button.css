@@ -1,0 +1,19 @@
+button{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
+
+.form-buttons {
+    position: relative;
+    min-width: 120px;
+    width: 100%;
+    height: 20%;
+}
+
